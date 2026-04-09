@@ -57,3 +57,12 @@ AI_CODE_REVIEWER/
 ├── README.md
 ├── requirements.txt
 ├── rxconfig.py
+
+
+## Agile Documents
+
+All Agile documents for this project are available in the `docs` folder:
+
+- Sprint Plan
+- Defect Tracker
+- Unit Test Plan
